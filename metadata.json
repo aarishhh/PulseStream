@@ -1,0 +1,6 @@
+{
+  "name": "PulseStream",
+  "description": "A real-time microblogging platform featuring a modern glassmorphism design, real-time feed updates, trending hashtags, content moderation, and comparative analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
